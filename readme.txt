@@ -2,7 +2,5 @@ gt
 ood good study,day day up
 I love you.
 
-u come here
-ls.
-
-s;s
+cccccccc
+Creating a new branch is quick
